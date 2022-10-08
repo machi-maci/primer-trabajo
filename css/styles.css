@@ -1,0 +1,150 @@
+html {
+    background-color: rgb(172, 201, 179);
+    font-size: 15px;
+    background-image: url("../img/patron-costuras-fondo-mapa-topografico-espacio-copiar-textura-costuras-linea-topografia-mapa-contorno-fondo-cuadricula-geografica-ruta-senderismo-montana-sobre-terreno_518816-2342.avif");
+    background-attachment: fixed;
+}
+
+.linkd {
+    text-align: right;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: large;
+    
+}
+.linkpag {
+    position: relative;
+    left: 80px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgba(93, 151, 116, 0.4);
+    width: 450px;
+    padding: 15px;
+    border: 2px black solid;
+    border-radius: 25px;
+    margin: 5px;
+    
+}
+.linkloc {
+    position: relative;
+    left: 120px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgb(141, 124, 104, 0.7);
+    width: 220px;
+    padding: 5px;
+    border: 1px black solid;
+    border-radius: 20px;
+    margin: 5px;
+}
+
+h1 {
+    text-align: center;
+    text-decoration: underline;
+    font-family: tahoma;
+}
+
+.centrarimg {
+    text-align: center;
+    background-color: rgb(133, 133, 184);
+    margin: 15px;
+    padding: 20px;
+    border: 20px rgb(90, 81, 81) solid;
+    border-radius: 20px;
+}
+
+.seguidos {
+    text-align: center;
+    font-family: tahoma;
+    display: inline-block;
+    width: 250px;
+    padding: 10px;
+    border: 3px solid rgba(0, 0, 0, 0.6);
+    border-radius: 20px;
+    margin: 5px;    
+}    
+
+.imagenes {
+    width: 250px;
+    border: 2px solid rgb(27, 18, 27);
+    border-radius: 20px;
+}
+
+.segui1 {
+    background-color: rgba(94, 94, 194, 0.8);
+    }
+.segui2 {
+    background-color: rgba(65, 141, 58, 0.8);
+}
+.segui3 {
+        background-color: rgba(175, 110, 25, 0.8);
+}
+
+
+.vide {
+    position: relative;
+    left: 100px;
+    border: rgba(141, 16, 89, 0.6);
+    border-radius: 50px;
+}
+
+.volver {
+    position: fixed;
+    bottom: 10px;
+    right: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: larger;
+    font-weight: bolder;
+    text-decoration: none;
+    background-color: rgba(0, 0, 0, 0.6);
+    padding: 12px;
+    border-radius: 25px;
+    color: rgb(81, 121, 91);
+}
+
+.subtitu {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 25px;
+    position: relative;
+    left: 50px;
+    color: black;
+}
+
+.tex {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    text-align: center;
+    margin: 30px;
+
+}
+.fondotexto {
+    background-color: rgba(139, 136, 136, 0.8);
+    padding: 20px;
+    border-radius: 20px;
+}
+.volverp {
+    position: fixed;
+    bottom: 15px;
+    left: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    font-size: larger;
+    color: rgb(81, 121, 91);
+    background-color: rgba(0, 0, 0, 0.6);
+    padding: 12px;
+    border-radius: 25px;
+}
+
+.fondoconsu {
+    background-color: rgba(138, 43, 226, 0.6);
+    width: 400px;
+    padding: 20px;
+    margin: 20px;
+    border: 3px black solid;
+    border-radius: 20px;
+    position: relative;
+    left: 300px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+}
+
+.imalogo {
+    width: 35px;
+}
