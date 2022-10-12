@@ -148,3 +148,10 @@ h1 {
 .imalogo {
     width: 35px;
 }
+
+.enlace :hover {
+    background-color: aqua;
+}
+.enlace2 :active {
+    background-color: blue;
+}
